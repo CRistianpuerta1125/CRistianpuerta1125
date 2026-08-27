@@ -42,9 +42,4 @@ Soy un desarrollador **Full Stack** apasionado por construir soluciones eficient
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRistianpuerta1125&show_icons=true&theme=dark&locale=es" alt="Damian's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRistianpuerta1125&layout=compact&theme=dark&locale=es" alt="Top Langs" />
-</p>
+### 
